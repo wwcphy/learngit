@@ -5,3 +5,5 @@ I don't understand.
 I start to understand.
 
 I change the name of repository on github.
+
+Try to use ssh instead of http.
